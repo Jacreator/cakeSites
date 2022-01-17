@@ -42,7 +42,7 @@
     <body>
         
         <!--================Main Header Area =================-->
-		@include('body.header')
+		@include('body.header') 
         <!--================End Main Header Area =================-->
         
         <!--================Slider Area =================-->
