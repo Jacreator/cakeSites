@@ -47,7 +47,7 @@
         <!--================End Main Header Area =================-->
         
         <!--================Slider Area =================-->
-        @include('body.main_slider_area')
+        @yield('body.main_slider_area')
         <!--================End Slider Area =================-->
         
         <!--================Welcome Area =================-->
