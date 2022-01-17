@@ -1,31 +1,19 @@
 <IfModule mod_rewrite.c>
-RewriteEngine On
+    <IfModule mod_negotiation.c>
+        Options -MultiViews
+    </IfModule>
+    
+    RewriteEngine On
+    
+    RewriteCond %{REQUEST_FILENAME} -d [OR]
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^ ^$1 [N]
 
-# If we receive a forwarded http request from a proxy...
-RewriteCond %{HTTP:X-Forwarded-Proto} =http [OR]
+    RewriteCond %{REQUEST_URI} (\.\w+$) [NC]
+    RewriteRule ^(.*)$ public/$1 
 
-# ...or just a plain old http request directly from the client
-RewriteCond %{HTTP:X-Forwarded-Proto} =""
-RewriteCond %{HTTPS} !=on
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ server.php
 
-# Redirect to https version
-RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
-  <IfModule mod_negotiation.c>
-      Options -MultiViews
-  </IfModule>
-
-  RewriteEngine On AllowOverride All
-  # Redirect Trailing Slashes If Not A Folder...
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteRule ^(.*)/$ /$1 [L,R=301]
-
-  # Handle Front Controller...
-  RewriteCond %{REQUEST_FILENAME} !-d
-  RewriteCond %{REQUEST_FILENAME} !-f
-  RewriteRule ^ index.php [L]
-
-  # Handle Authorization Header
-  RewriteCond %{HTTP:Authorization} .
-  RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 </IfModule>
