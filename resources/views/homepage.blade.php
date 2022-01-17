@@ -6,29 +6,29 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         
-        <link rel="icon" href="{{ asset('frontend/img/fav-icon.png') }}" type="image/x-icon" />
+        <link rel="icon" href="frontend/img/fav-icon.png" type="image/x-icon" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <title>Cake - Bakery</title>
 
         <!-- Icon css link -->
-        <link href="{{ asset('frontend/css/font-awesome.min.css') }}" rel="stylesheet"> 
-        <link href="{{ asset('frontend/vendors/linearicons/style.css') }}" rel="stylesheet">
-        <link href="{{ asset('frontend/vendors/flat-icon/flaticon.css') }}" rel="stylesheet">
+        <link href="'frontend/css/font-awesome.min.css" rel="stylesheet"> 
+        <link href="'frontend/vendors/linearicons/style.css" rel="stylesheet">
+        <link href="frontend/vendors/flat-icon/flaticon.css" rel="stylesheet">
         <!-- Bootstrap -->
-        <link href="{{ asset('frontend/css/bootstrap.min.css') }}" rel="stylesheet">
+        <link href="frontend/css/bootstrap.min.css" rel="stylesheet">
         
         <!-- Rev slider css -->
-        <link href="{{ asset('frontend/vendors/revolution/css/settings.css') }}" rel="stylesheet">
-        <link href="{{ asset('frontend/vendors/revolution/css/layers.css') }}" rel="stylesheet">
-        <link href="{{ asset('frontend/vendors/revolution/css/navigation.css') }}" rel="stylesheet">
-        <link href="{{ asset('frontend/vendors/animate-css/animate.css') }}" rel="stylesheet">
+        <link href="frontend/vendors/revolution/css/settings.css" rel="stylesheet">
+        <link href="frontend/vendors/revolution/css/layers.css" rel="stylesheet">
+        <link href="frontend/vendors/revolution/css/navigation.css" rel="stylesheet">
+        <link href="frontend/vendors/animate-css/animate.css" rel="stylesheet">
         
         <!-- Extra plugin css -->
-        <link href="{{ asset('frontend/vendors/owl-carousel/owl.carousel.min.css') }}" rel="stylesheet">
-        <link href="{{ asset('frontend/vendors/magnifc-popup/magnific-popup.css') }}" rel="stylesheet">
+        <link href="frontend/vendors/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+        <link href="frontend/vendors/magnifc-popup/magnific-popup.css" rel="stylesheet">
         
-        <link href="{{ asset('frontend/css/style.css') }}" rel="stylesheet">
-        <link href="{{ asset('frontend/css/responsive.css') }}" rel="stylesheet">
+        <link href="frontend/css/style.css" rel="stylesheet">
+        <link href="frontend/css/responsive.css" rel="stylesheet">
 
         @yield('head')
 
@@ -87,28 +87,28 @@
         <!--================End Search Box Area =================-->
 
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-        <script src="{{ asset('frontend/js/jquery-3.2.1.min.js') }}"></script>
+        <script src="frontend/js/jquery-3.2.1.min.js"></script>
         <!-- Include all compiled plugins (below), or include individual files as needed -->
-        <script src="{{ asset('frontend/js/popper.min.js') }}"></script> 
-        <script src="{{ asset('frontend/js/bootstrap.min.js') }}"></script>
+        <script src="frontend/js/popper.min.js"></script> 
+        <script src="frontend/js/bootstrap.min.js"></script>
         <!-- Rev slider js -->
-        <script src="{{ asset('frontend/vendors/revolution/js/jquery.themepunch.tools.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/revolution/js/jquery.themepunch.revolution.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/revolution/js/extensions/revolution.extension.actions.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/revolution/js/extensions/revolution.extension.video.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/revolution/js/extensions/revolution.extension.navigation.min.js') }}"></script>
+        <script src="frontend/vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+        <script src="frontend/vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="frontend/vendors/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+        <script src="frontend/vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
+        <script src="frontend/vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="frontend/vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script src="frontend/vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
         <!-- Extra plugin js -->
-        <script src="{{ asset('frontend/vendors/owl-carousel/owl.carousel.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/magnifc-popup/jquery.magnific-popup.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/datetime-picker/js/moment.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/datetime-picker/js/bootstrap-datetimepicker.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/nice-select/js/jquery.nice-select.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/jquery-ui/jquery-ui.min.js') }}"></script>
-        <script src="{{ asset('frontend/vendors/lightbox/simpleLightbox.min.js') }}"></script>
+        <script src="frontend/vendors/owl-carousel/owl.carousel.min.js"></script>
+        <script src="frontend/vendors/magnifc-popup/jquery.magnific-popup.min.js"></script>
+        <script src="frontend/vendors/datetime-picker/js/moment.min.js"></script>
+        <script src="frontend/vendors/datetime-picker/js/bootstrap-datetimepicker.min.js"></script>
+        <script src="frontend/vendors/nice-select/js/jquery.nice-select.min.js"></script>
+        <script src="frontend/vendors/jquery-ui/jquery-ui.min.js"></script>
+        <script src="frontend/vendors/lightbox/simpleLightbox.min.js"></script>
         
-        <script src="{{ asset('frontend/js/theme.js') }}"></script>
+        <script src="frontend/js/theme.js"></script>
     </body>
 
 </html>
