@@ -4,7 +4,7 @@
         			<div class="item">
         				<div class="media">
         					<div class="d-flex">
-        						<img src="{{ asset('frontend/mg/recipe/recipe-1.png') }}" alt="">
+        						<img src="/frontend/mg/recipe/recipe-1.png" alt="">
         					</div>
         					<div class="media-body">
         						<h4>Special Recipe</h4>
@@ -16,7 +16,7 @@
         			<div class="item">
         				<div class="media">
         					<div class="d-flex">
-        						<img src="{{ asset('frontend/mg/recipe/recipe-1.png') }}" alt="">
+        						<img src="/frontend/mg/recipe/recipe-1.png" alt="">
         					</div>
         					<div class="media-body">
         						<h4>Special Recipe</h4>
@@ -28,7 +28,7 @@
         			<div class="item">
         				<div class="media">
         					<div class="d-flex">
-        						<img src="{{ asset('frontend/mg/recipe/recipe-1.png') }}" alt="">
+        						<img src="/frontend/mg/recipe/recipe-1.png" alt="">
         					</div>
         					<div class="media-body">
         						<h4>Special Recipe</h4>
@@ -40,7 +40,7 @@
         			<div class="item">
         				<div class="media">
         					<div class="d-flex">
-        						<img src="{{ asset('frontend/mg/recipe/recipe-1.png') }}" alt="">
+        						<img src="/frontend/mg/recipe/recipe-1.png" alt="">
         					</div>
         					<div class="media-body">
         						<h4>Special Recipe</h4>

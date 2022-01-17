@@ -23,8 +23,8 @@
 				<div class="container">
 					<nav class="navbar navbar-expand-lg navbar-light bg-light">
 						<a class="navbar-brand" href="index.html">
-						<img src="frontend/img/logo.png" alt=""> 
-						<img src="frontend/mg/logo-2.png" alt="">
+						<img src="/frontend/img/logo.png" alt=""> 
+						<img src="/frontend/mg/logo-2.png" alt="">
 						</a>
 						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="my_toggle_menu">
