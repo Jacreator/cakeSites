@@ -11,8 +11,8 @@
         <title>Cake - Bakery</title>
 
         <!-- Icon css link -->
-        <link href="'frontend/css/font-awesome.min.css" rel="stylesheet"> 
-        <link href="'frontend/vendors/linearicons/style.css" rel="stylesheet">
+        <link href="frontend/css/font-awesome.min.css" rel="stylesheet"> 
+        <link href="frontend/vendors/linearicons/style.css" rel="stylesheet">
         <link href="frontend/vendors/flat-icon/flaticon.css" rel="stylesheet">
         <!-- Bootstrap -->
         <link href="frontend/css/bootstrap.min.css" rel="stylesheet">
