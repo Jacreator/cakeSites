@@ -28,9 +28,9 @@
                         <img src="img/cake-feature/c-feature-1.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#29k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code: Cake-676 </a>
                     </div>
                 </div>
             </div>
@@ -40,9 +40,9 @@
                         <img src="img/cake-feature/c-feature-2.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -52,9 +52,9 @@
                         <img src="img/cake-feature/c-feature-3.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -64,9 +64,9 @@
                         <img src="img/cake-feature/c-feature-9.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -76,9 +76,9 @@
                         <img src="img/cake-feature/c-feature-4.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -88,9 +88,9 @@
                         <img src="img/cake-feature/c-feature-5.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -100,9 +100,9 @@
                         <img src="img/cake-feature/c-feature-6.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -112,9 +112,9 @@
                         <img src="img/cake-feature/c-feature-7.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -124,9 +124,9 @@
                         <img src="img/cake-feature/c-feature-8.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -136,9 +136,9 @@
                         <img src="/img/cake-feature/c-feature-9.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -148,9 +148,9 @@
                         <img src="/img/cake-feature/c-feature-3.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#30k</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
@@ -160,9 +160,9 @@
                         <img src="/img/cake-feature/c-feature-5.jpg" alt="">
                     </div>
                     <div class="cake_text">
-                        <h4>$29</h4>
+                        <h4>#29</h4>
                         <h3>Strawberry Cupcakes</h3>
-                        <a class="pest_btn" href="#">Add to cart</a>
+                        <a class="pest_btn" href="#">Code:</a>
                     </div>
                 </div>
             </div>
